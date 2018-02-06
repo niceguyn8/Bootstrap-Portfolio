@@ -1,0 +1,117 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  color: #777;
+  /* background-image: url("images/wood.png"); */
+}
+
+.container {
+  /* background-color: gray; */
+  /* border: 1px solid purple; */
+}
+
+.section-1 {
+  border: 4px solid #4aaaa5;
+  padding: 25px;
+  margin: 25px;
+  background-color: #ffffff;
+}
+
+.About-me-title {
+  border-bottom: 4px solid #dddddd;
+  color: #4aaaa5;
+  margin-bottom: 20px;
+}
+
+.sidebar {
+  color: #4aaaa5;
+  font-size: 15px;
+  border: 4px solid #4aaaa5;
+  padding: 25px;
+  margin: 25px;
+  background-color: #ffffff;
+}
+
+.icon-bar {
+  padding-left: 50px;
+}
+
+.icons {
+  height: 50px;
+}
+
+h1 {
+  padding: 25px;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  border-bottom: 4px solid #dddddd;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.logo {
+  color: #fff;
+  background-color: #4aaaa5;
+  padding-bottom: 0.1px;
+  margin-right: 100px;
+  margin-left: 30px;
+  text-align: center;
+}
+
+.main-section {
+  background-image: url("../images/wood.png");
+  /* margin-right: 100px; */
+  /* margin-left: 100px; */
+}
+
+.my-photo {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+  overflow: auto;
+}
+
+p {
+  color: #777777;
+}
+
+nav {
+  padding: 45px;
+  float: right;
+  color: #777777;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+nav a {
+  border-right: 1px solid gray;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: #666666;
+  padding: 20px;
+  border-top: 15px solid teal;
+  /* margin-top: -50px; */
+}
+
+button {
+  background-color: #4aaaa5;
+  color: #ffffff;
+  padding: 5px 30px;
+}
+
+h4 {
+  background-color: #4aaaa5;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  padding-left: 10px;
+}
