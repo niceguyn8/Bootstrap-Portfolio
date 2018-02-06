@@ -113,5 +113,12 @@ h4 {
   color: #ffffff;
   text-align: center;
   font-family: 'Georgia', Times, Times New Roman, serif;
-  padding-left: 10px;
+  padding: 10px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.thumbnail {
+  border: 0;
 }
